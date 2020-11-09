@@ -1,0 +1,1 @@
+W pierwszej kolejności należy uruchomić program receiver.py, następnie dopiero boat.py
